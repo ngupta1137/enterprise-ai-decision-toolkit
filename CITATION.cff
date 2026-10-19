@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use or adapt these instruments, please cite them as below."
+title: "Enterprise AI Decision Toolkit"
+abstract: "Six open instruments for enterprise AI authority, governance, and value: the Agentic AI Production Readiness Scorecard, Authority Change Record, Vendor Authority Gates, Market Authority Passport, True Cost of an Action, and Stop Memo."
+type: generic
+version: "1.0"
+date-released: "2026-10-19"
+license: MIT
+authors:
+  - family-names: Gupta
+    given-names: Nitin
+repository-code: "https://github.com/ngupta1137/enterprise-ai-decision-toolkit"
+url: "https://github.com/ngupta1137/enterprise-ai-decision-toolkit"
+keywords:
+  - enterprise AI
+  - AI governance
+  - agentic AI
+  - decision rights
+  - AI authority
+  - production readiness
+references:
+  - type: book
+    title: "The Enterprise AI Decision System: How AI Leaders Turn Capability into Authorized Enterprise Action"
+    authors:
+      - family-names: Gupta
+        given-names: Nitin
