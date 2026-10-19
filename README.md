@@ -1,5 +1,7 @@
 # Enterprise AI Decision Toolkit
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23464328.svg)](https://doi.org/10.5281/zenodo.23464328)
+
 **Six open instruments for deciding what an enterprise AI system is allowed to do, and proving it.**
 
 Most enterprise AI does not fail because the model is weak. It fails in the space around the model: nobody wrote down what the system may do, nobody can show what it did, the vendor holds the controls, the business case counted the cheapest number, the rollout to a second country assumed the first one's evidence, and nobody was willing to sign the decision to stop.
@@ -69,13 +71,14 @@ They draw on concepts from the NIST AI Risk Management Framework, ISO/IEC 42001,
 
 To cite the toolkit as a whole:
 
-> Gupta, N. (2026). *Enterprise AI Decision Toolkit* (Version 1.0) [Governance instruments]. GitHub. https://github.com/ngupta1137/enterprise-ai-decision-toolkit
+> Gupta, N. (2026). *Enterprise AI Decision Toolkit* (Version 1.0) [Governance instruments]. Zenodo. https://doi.org/10.5281/zenodo.23464328
 
 ```bibtex
 @misc{gupta2026toolkit,
   author       = {Gupta, Nitin},
   title        = {Enterprise AI Decision Toolkit},
   version      = {1.0},
+  doi          = {10.5281/zenodo.23464328},
   year         = {2026},
   howpublished = {\url{https://github.com/ngupta1137/enterprise-ai-decision-toolkit}},
   note         = {Open instruments for enterprise AI authority, governance, and value}
