@@ -80,7 +80,7 @@ To cite the toolkit as a whole:
   version      = {1.0},
   doi          = {10.5281/zenodo.23464328},
   year         = {2026},
-  howpublished = {\url{https://github.com/ngupta1137/enterprise-ai-decision-toolkit}},
+  howpublished = {\url{https://doi.org/10.5281/zenodo.23464328}},
   note         = {Open instruments for enterprise AI authority, governance, and value}
 }
 ```

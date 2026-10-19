@@ -4,6 +4,7 @@ title: "Enterprise AI Decision Toolkit"
 abstract: "Six open instruments for enterprise AI authority, governance, and value: the Agentic AI Production Readiness Scorecard, Authority Change Record, Vendor Authority Gates, Market Authority Passport, True Cost of an Action, and Stop Memo."
 type: generic
 version: "1.0"
+doi: 10.5281/zenodo.23464328
 date-released: "2026-10-19"
 license: MIT
 authors:
@@ -11,7 +12,6 @@ authors:
     given-names: Nitin
 repository-code: "https://github.com/ngupta1137/enterprise-ai-decision-toolkit"
 url: "https://github.com/ngupta1137/enterprise-ai-decision-toolkit"
-doi: "10.5281/zenodo.23464328"
 keywords:
   - enterprise AI
   - AI governance

@@ -81,7 +81,7 @@ Full rules are at the top of [SCORECARD.md](SCORECARD.md).
 
 If you use or adapt this scorecard in research, internal standards, training material, or publications, please cite it:
 
-> Gupta, N. (2026). *Agentic AI Production Readiness Scorecard* (Version 1.0) [Assessment framework]. GitHub. https://github.com/ngupta1137/enterprise-ai-decision-toolkit/tree/main/scorecard
+> Gupta, N. (2026). *Agentic AI Production Readiness Scorecard* (Version 1.0) [Assessment framework]. GitHub. https://github.com/ngupta1137/enterprise-ai-decision-toolkit/tree/main/scorecard https://doi.org/10.5281/zenodo.23464328
 
 BibTeX:
 
@@ -90,6 +90,7 @@ BibTeX:
   author       = {Gupta, Nitin},
   title        = {Agentic AI Production Readiness Scorecard},
   version      = {1.0},
+  doi          = {10.5281/zenodo.23464328},
   year         = {2026},
   howpublished = {\url{https://github.com/ngupta1137/enterprise-ai-decision-toolkit/tree/main/scorecard}},
   note         = {Assessment framework for enterprise agentic AI governance}
