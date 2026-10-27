@@ -2,7 +2,7 @@
 
 A self-assessment for enterprise teams deciding whether an agentic AI system is ready to act in production, and how much authority it has actually earned.
 
-[Read the scorecard](SCORECARD.md) · [Download the printable PDF](agentic-ai-production-readiness-scorecard.pdf) · [Back to the toolkit](../README.md)
+[Read the scorecard](SCORECARD.md) · [Download the printable PDF](agentic-ai-production-readiness-scorecard.pdf) · [Open the scoring workbook](scorecard-workbook.xlsx) · [Back to the toolkit](../README.md)
 
 ---
 
@@ -41,7 +41,7 @@ It works for agents you build, agents you buy, and agents assembled from both. I
 - Award the highest anchor where every condition is true. Anchors are cumulative.
 - **No evidence, no points.** A claim nobody can show in the room scores 0.
 - **Six criteria are gates** (written authority boundary, named authority owner, demotion triggers, complete action trace, tested kill switch, limits enforced outside the model). Gates cap the readiness band no matter how high the total is.
-- Totals map to three bands: **Not ready (0 to 55), Pilot-ready (56 to 83), Production-ready (84 to 111)**, each with a maximum authority state and next steps.
+- Totals map to three bands: **Not ready (0 to 55), Pilot-ready (56 to 83), Production-ready (84 to 111)**, each with a maximum authority state and next steps. A stricter condition inside the top band, **Expanded-ready** (95 or more, every gate at 3, no criterion at 0), is required before any grant of expanded autonomy.
 
 Full rules are at the top of [SCORECARD.md](SCORECARD.md).
 
@@ -81,7 +81,7 @@ Full rules are at the top of [SCORECARD.md](SCORECARD.md).
 
 If you use or adapt this scorecard in research, internal standards, training material, or publications, please cite it:
 
-> Gupta, N. (2026). *Agentic AI Production Readiness Scorecard* (Version 1.0) [Assessment framework]. In *Enterprise AI Decision Toolkit*. Zenodo. https://doi.org/10.5281/zenodo.23464328
+> Gupta, N. (2026). *Agentic AI Production Readiness Scorecard* (Version 1.1) [Assessment framework]. In *Enterprise AI Decision Toolkit*. Zenodo. https://doi.org/10.5281/zenodo.23464328
 
 BibTeX:
 
@@ -89,7 +89,7 @@ BibTeX:
 @misc{gupta2026scorecard,
   author       = {Gupta, Nitin},
   title        = {Agentic AI Production Readiness Scorecard},
-  version      = {1.0},
+  version      = {1.1},
   doi          = {10.5281/zenodo.23464328},
   year         = {2026},
   howpublished = {\url{https://github.com/ngupta1137/enterprise-ai-decision-toolkit/tree/main/scorecard}},

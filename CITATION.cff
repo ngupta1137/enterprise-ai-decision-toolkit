@@ -1,11 +1,11 @@
 cff-version: 1.2.0
 message: "If you use or adapt these instruments, please cite them as below."
 title: "Enterprise AI Decision Toolkit"
-abstract: "Six open instruments for enterprise AI authority, governance, and value: the Agentic AI Production Readiness Scorecard, Authority Change Record, Vendor Authority Gates, Market Authority Passport, True Cost of an Action, and Stop Memo."
+abstract: "Eight open instruments for enterprise AI authority, governance, and value: the Agent Register, Agentic AI Production Readiness Scorecard, AI Authority Review, Authority Change Record, Vendor Authority Gates, Market Authority Passport, True Cost of an Action, and Stop Memo, with a scoring workbook and a worked example."
 type: generic
-version: "1.0"
+version: "1.1"
 doi: 10.5281/zenodo.23464328
-date-released: "2026-10-19"
+date-released: "2026-10-27"
 license: MIT
 authors:
   - family-names: Gupta
@@ -19,6 +19,7 @@ keywords:
   - decision rights
   - AI authority
   - production readiness
+  - agent inventory
 references:
   - type: book
     title: "The Enterprise AI Decision System: How AI Leaders Turn Capability into Authorized Enterprise Action"

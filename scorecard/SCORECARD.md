@@ -1,6 +1,6 @@
 # Agentic AI Production Readiness Scorecard
 
-**Version 1.0 · October 2026 · Nitin Gupta**
+**Version 1.1 · October 2026 · Nitin Gupta**
 
 This scorecard helps an enterprise AI team decide whether an agentic AI system is ready to act in production, and how much authority it has earned. It rests on one idea: enterprises rarely fail at AI because the model is weak. They fail because nobody decided what the system is allowed to do, nobody proved it deserves that authority, and nobody can take that authority back quickly when it stops being deserved.
 
@@ -392,19 +392,22 @@ The business conditions under which the initiative is redesigned, paused, or sto
 
 ## Readiness bands
 
-Apply the gate rules first. The total score cannot lift a system above the band its gates allow.
+Apply the gate rules first. The total score cannot lift a system above the band its gates allow. Expanded-ready overlaps the top of Production-ready on purpose: it is the same score range with a stricter gate condition. A spreadsheet edition that applies these rules automatically is in [scorecard-workbook.xlsx](scorecard-workbook.xlsx).
 
 | Band | Total score | Gate condition | Maximum authority state |
 |---|---|---|---|
 | **Not ready** | 0 to 55 | Or any gate scored 0 | Observe only |
 | **Pilot-ready** | 56 to 83 | Every gate at 1 or higher | Recommend, or act with approval in a limited scope |
 | **Production-ready** | 84 to 111 | Every gate at 2 or higher, and no criterion at 0 | Bounded autonomy within the written limits in 1.1 |
+| **Expanded-ready** | 95 to 111 | Every gate at 3, and no criterion at 0 | Expanded autonomy, with a 60-day sunset on every grant |
 
 **Not ready.** The system may be impressive in a demo, but the enterprise cannot yet say what it is allowed to do, prove what it did, or stop it quickly. Run it in observe mode only, where it logs what it would have done without acting. Next steps: fix every gate scored 0 before anything else, then name the authority owner (1.2), the business owner (7.1), and the risk owner (7.3), because most other gaps cannot close without them. Re-score in 4 to 8 weeks.
 
 **Pilot-ready.** The basics of control exist, but the evidence is not yet strong enough to let the system act on its own. Run a bounded pilot where the system recommends or acts only with approval, in a limited scope (one market, one action type, capped volume). Next steps: use the pilot to build the evidence the scorecard is missing, especially production sampling (3.5), oversight metrics (4.4), and cost per completed action (4.5). Lift every gate to 2. Re-score before any request to expand scope.
 
-**Production-ready.** The enterprise can say what the system may do, show what it did, measure whether it is still good enough, and take its authority back quickly. Bounded autonomy within the written limits is defensible. Next steps: hold the scheduled authority review (7.5) and treat this score as perishable, because a model update, a new market, or a new action type can drop it. Expanded autonomy should require a total of 95 or more with every gate at 3. Re-score at least quarterly and at every authority change.
+**Production-ready.** The enterprise can say what the system may do, show what it did, measure whether it is still good enough, and take its authority back quickly. Bounded autonomy within the written limits is defensible. Next steps: hold the scheduled authority review (7.5) and treat this score as perishable, because a model update, a new market, or a new action type can drop it. Re-score at least quarterly and at every authority change.
+
+**Expanded-ready.** A stricter condition inside the top band, not a separate score range. Bounded autonomy has run long enough to produce sustained evidence, every gate is enforced by systems rather than goodwill, and nothing scores 0. Expanded autonomy is defensible for the action types where that evidence exists. Next steps: record each grant on an Authority Change Record with a 60-day sunset, re-score before every renewal, and keep the scoped kill switch (5.1 at 3) tested on the 90-day cycle. A system that meets this band for one action type has not met it for any other.
 
 **One more rule.** A high total does not cover a gap in a gate. A system scoring 100 with an untested kill switch is not production-ready. Strong evidence in five places does not make up for missing evidence in the sixth.
 
