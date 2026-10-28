@@ -15,6 +15,8 @@ Changes to criteria, gates, thresholds, bands, or decision rules are listed here
 
 ### Changed
 
+- **Book title.** Updated to *Enterprise AI Decision System: Turning Capability into Authorized Enterprise Action* across the toolkit and citation metadata.
+- **License scope.** The README now states that the MIT License covers the instruments and documentation in this repository, not the text of the book.
 - **Agentic AI Production Readiness Scorecard 1.1.** Added the **Expanded-ready** band: a total of 95 or more, every gate at 3, and no criterion at 0, required before any grant of expanded autonomy, with a 60-day sunset on every grant. It is the top of the Production-ready range with a stricter gate condition, not a new score range. Previously this rule appeared only as a sentence under Production-ready. No criterion, anchor, or existing band threshold changed.
 - **Contributing guide.** Spreadsheet editions of an instrument are now accepted when they use plain formulas only, contain no macros or external links, and match the written instrument exactly.
 

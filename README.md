@@ -82,7 +82,7 @@ Bring evidence. In every instrument, a claim nobody can show in the room counts 
 
 ## Where these come from
 
-These instruments apply and extend the authority framework in *The Enterprise AI Decision System: How AI Leaders Turn Capability into Authorized Enterprise Action* by Nitin Gupta, drawn from more than fifteen years of building and delivering enterprise AI systems at global scale.
+These instruments apply and extend the authority framework in the forthcoming book *Enterprise AI Decision System: Turning Capability into Authorized Enterprise Action* by Nitin Gupta, drawn from more than fifteen years of building and delivering enterprise AI systems at global scale.
 
 They are not invented from nothing, and they say so. Each instrument names the established ideas it builds on, such as stage-gate reviews, zero-based budgeting, change control, and total cost of ownership. What is new is the application to AI authority and the specific mechanisms each one uses.
 
@@ -122,3 +122,5 @@ The most useful contributions come from people who have used an instrument for r
 ## License
 
 [MIT](LICENSE). Use them, adapt them, put them in your own standards and training. Attribution is appreciated.
+
+**What the license covers.** The MIT License applies to the instruments, forms, workbooks, worked example, and documentation in this repository, as published here. It does not cover the book *Enterprise AI Decision System: Turning Capability into Authorized Enterprise Action*. The book's text is a separate copyrighted work, is not included in this repository, and is not licensed under these terms. Where an instrument also appears in the book, the version in this repository is the one licensed under MIT.

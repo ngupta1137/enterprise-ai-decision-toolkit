@@ -114,4 +114,4 @@ Product localization and market-entry checklists are well established, and regul
 
 ---
 
-Part of the Enterprise AI Decision Toolkit, a set of open instruments for enterprise AI governance based on *The Enterprise AI Decision System: How AI Leaders Turn Capability into Authorized Enterprise Action* by Nitin Gupta. Latest version: github.com/ngupta1137/enterprise-ai-decision-toolkit. Licensed under MIT.
+Part of the Enterprise AI Decision Toolkit, a set of open instruments for enterprise AI governance based on *Enterprise AI Decision System: Turning Capability into Authorized Enterprise Action* by Nitin Gupta. Latest version: github.com/ngupta1137/enterprise-ai-decision-toolkit. Licensed under MIT.

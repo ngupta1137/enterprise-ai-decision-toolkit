@@ -417,6 +417,6 @@ Apply the gate rules first. The total score cannot lift a system above the band 
 
 It is not a certification, a legal opinion, or a substitute for regulatory compliance work. It is a structured way for a team to have an honest conversation about readiness, using evidence instead of confidence. It draws on concepts from the NIST AI Risk Management Framework, ISO/IEC 42001, and the EU AI Act's human-oversight provisions, and it is not affiliated with or endorsed by any of them.
 
-Based on the authority framework in *The Enterprise AI Decision System: How AI Leaders Turn Capability into Authorized Enterprise Action* by Nitin Gupta.
+Based on the authority framework in *Enterprise AI Decision System: Turning Capability into Authorized Enterprise Action* by Nitin Gupta.
 
 Latest version, full documentation, and workshop guide: github.com/ngupta1137/enterprise-ai-decision-toolkit/tree/main/scorecard. Part of the Enterprise AI Decision Toolkit. Licensed under MIT.

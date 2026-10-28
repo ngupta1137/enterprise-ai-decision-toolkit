@@ -97,7 +97,7 @@ BibTeX:
 }
 ```
 
-The scorecard is part of the [Enterprise AI Decision Toolkit](../README.md) and is based on the authority framework in *The Enterprise AI Decision System: How AI Leaders Turn Capability into Authorized Enterprise Action* by Nitin Gupta.
+The scorecard is part of the [Enterprise AI Decision Toolkit](../README.md) and is based on the authority framework in *Enterprise AI Decision System: Turning Capability into Authorized Enterprise Action* by Nitin Gupta.
 
 ## Contributing
 
@@ -115,4 +115,4 @@ This is not a certification, a legal opinion, or a compliance program. It is a s
 
 ## License
 
-[MIT](../LICENSE). Use it, adapt it, share it. Attribution is appreciated.
+[MIT](../LICENSE). Use it, adapt it, share it. Attribution is appreciated. The license covers the scorecard as published here, not the text of the book it is based on. See the [toolkit README](../README.md#license).
