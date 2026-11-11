@@ -97,7 +97,7 @@ BibTeX:
 }
 ```
 
-The scorecard is part of the [Enterprise AI Decision Toolkit](../README.md) and is based on the authority framework in *The Enterprise AI Decision System: How AI Leaders Turn Capability into Authorized Enterprise Action* by Nitin Gupta.
+The scorecard is part of the [Enterprise AI Decision Toolkit](../README.md) and is based on the authority framework in *Enterprise AI Decision System: Turning Capability into Authorized Enterprise Action* by Nitin Gupta.
 
 ## Contributing
 

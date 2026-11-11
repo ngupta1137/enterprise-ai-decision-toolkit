@@ -82,7 +82,7 @@ Bring evidence. In every instrument, a claim nobody can show in the room counts 
 
 ## Where these come from
 
-These instruments apply and extend the authority framework in *The Enterprise AI Decision System: How AI Leaders Turn Capability into Authorized Enterprise Action* by Nitin Gupta, drawn from more than fifteen years of building and delivering enterprise AI systems at global scale.
+These instruments apply and extend the authority framework in *Enterprise AI Decision System: Turning Capability into Authorized Enterprise Action* by Nitin Gupta, drawn from more than fifteen years of building and delivering enterprise AI systems at global scale.
 
 They are not invented from nothing, and they say so. Each instrument names the established ideas it builds on, such as stage-gate reviews, zero-based budgeting, change control, and total cost of ownership. What is new is the application to AI authority and the specific mechanisms each one uses.
 
