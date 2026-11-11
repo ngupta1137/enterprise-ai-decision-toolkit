@@ -20,19 +20,19 @@ Thanks for helping improve the Enterprise AI Decision Toolkit. The goal is instr
 2. **Fork and branch** once the change is agreed.
 3. **Keep the style.** Plain practitioner language. No hype, no em dashes, no criteria such as "ensure appropriate governance." Every item must name something a team can show as evidence.
 4. **Keep scales cumulative.** Where an instrument uses graded anchors, a higher grade must require everything in the one below it.
-5. **Keep the shared vocabulary.** The five authority states (Observe, Recommend, Act with approval, Bounded autonomy, Expanded autonomy) are used across every instrument. Changes to them affect all six.
+5. **Keep the shared vocabulary.** The five authority states (Observe, Recommend, Act with approval, Bounded autonomy, Expanded autonomy) are used across every instrument. Changes to them affect all eight.
 6. **Open a pull request** that references the issue and explains what changed and why.
 
 ## What will not be accepted
 
-- Code, tooling, or automation. This repository holds the instruments and their documentation only.
+- Code, scripts, macros, or software tooling. This repository holds the instruments and their documentation only. A spreadsheet edition of an instrument is accepted when it uses plain formulas only, contains no macros or external links, and matches the written instrument exactly. The written instrument always wins.
 - Vendor or product references. The instruments are tool-neutral.
 - Items that cannot be answered from evidence.
 - Additions that add length without catching a distinct failure.
 
 ## Versioning
 
-Changes to criteria, gates, thresholds, bands, or decision rules increase that instrument's version number and are listed in the top-level README. Wording-only fixes do not.
+Changes to criteria, gates, thresholds, bands, or decision rules increase that instrument's version number and are listed in the top-level README and in [CHANGELOG.md](CHANGELOG.md). Wording-only fixes do not.
 
 ## Conduct
 
