@@ -42,6 +42,12 @@ New to the toolkit? Read the [worked example](examples/), which follows one fict
 | [True Cost of an Action](true-cost-of-an-action/) | What does one accepted, completed action really cost? | Business case, pilot exit, and every quarterly value review |
 | [Stop Memo](stop-memo/) | When do we stop, and how do we stop cleanly? | Written at funding, used at every scheduled review |
 
+### Physical AI
+
+| Instrument | The question it answers | Use it when |
+|---|---|---|
+| [Physical AI Authority Checklist](physical-ai-authority-checklist/) | Is this robot or physical AI system ready for the field? | Before any robot or physical AI system works outside a lab |
+
 Each folder holds the instrument as a readable page and a printable PDF. The Scorecard also comes as a [spreadsheet](scorecard/scorecard-workbook.xlsx) that applies the gate and band rules automatically, and the AI Authority Review as a [one-page form](ai-authority-review/ai-authority-review-form.pdf).
 
 ## How they fit together
