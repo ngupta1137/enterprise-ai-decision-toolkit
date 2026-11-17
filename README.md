@@ -46,21 +46,22 @@ New to the toolkit? Read the [worked example](examples/), which follows one fict
 
 | Instrument | The question it answers | Use it when |
 |---|---|---|
-| [Physical AI Authority Checklist](physical-ai-authority-checklist/) | Is this robot or physical AI system ready for the field? | Before any robot or physical AI system works outside a lab |
+| [Physical AI Authority Checklist](physical-ai-authority-checklist/) | Is this robot or physical AI system ready to operate outside a lab, alongside people and other systems? | Before any robot or physical AI system works outside a lab |
 | [Field Data Foundations Checklist](field-data-foundations-checklist/) | Will field data become an asset or a liability? | Companion checklist for field robotics programs |
 
 Each folder holds the instrument as a readable page and a printable PDF. The Scorecard also comes as a [spreadsheet](scorecard/scorecard-workbook.xlsx) that applies the gate and band rules automatically, and the AI Authority Review as a [one-page form](ai-authority-review/ai-authority-review-form.pdf).
 
 ## How they fit together
 
-The eight follow the life of an AI system in the enterprise.
+The ten instruments follow the life of an AI system in the enterprise.
 
 1. **Funding.** Write the **Stop Memo**'s stop line before the start date, while nobody is yet invested in the outcome. Build the business case on the **True Cost of an Action**, not on the price of a model call.
 2. **Buying.** If any part of the system is bought, run **Vendor Authority Gates** before weighted scoring begins.
 3. **Launching.** Complete the **Agent Register** scope card: a scope, an owner, and a stop button, before any credential is issued. Score the system on the **Readiness Scorecard**. The band sets the most authority it may hold. Record the grant on an **Authority Change Record**, with an expiry date.
-4. **Operating.** Re-score quarterly. Every request for more authority, and every scheduled review, goes through the **AI Authority Review**. Every change in authority, up or down, goes on the same change record. Recalculate the true cost each quarter. Reconcile the register against what is actually running.
-5. **Expanding.** Before entering a new market, issue a **Market Authority Passport**. Every new market starts one step down.
-6. **Reviewing.** At each scheduled review, complete the stop decision against the stop line written at funding: continue, redesign, park, or stop. If the answer is stop, unwind the system's authority as well as its budget.
+4. **Deploying physical systems.** Physical AI systems also complete the **Physical AI Authority Checklist** before working outside a lab.
+5. **Operating.** Re-score quarterly. Every request for more authority, and every scheduled review, goes through the **AI Authority Review**. Every change in authority, up or down, goes on the same change record. Recalculate the true cost each quarter. Reconcile the register against what is actually running.
+6. **Expanding.** Before entering a new market, issue a **Market Authority Passport**. Every new market starts one step down.
+7. **Reviewing.** At each scheduled review, complete the stop decision against the stop line written at funding: continue, redesign, park, or stop. If the answer is stop, unwind the system's authority as well as its budget.
 
 The instruments share one vocabulary for authority, so a score on one carries straight into another. Every instrument uses the same five authority states:
 

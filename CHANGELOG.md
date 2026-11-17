@@ -2,6 +2,12 @@
 
 Changes to criteria, gates, thresholds, bands, or decision rules are listed here with the instrument's new version number. Wording-only fixes are not.
 
+## Toolkit 1.2.1 · November 2026
+
+### Changed
+
+- **Physical AI Authority Checklist 1.1** ([physical-ai-authority-checklist/](physical-ai-authority-checklist/)). Generalized scope to cover any robot or physical AI system operating outside a lab or test site across industrial, logistics, retail, healthcare, transportation, and field environments. Aligned governance terms with the toolkit and the book (accountable decision owner, separate business and technical owners, authority states and limits for permitted actions, "May never do" list, eight-dimension Evidence Chain for earning authority, automatic demotion triggers, and post-fix evidence for incident recovery). Added four new sections: People in the space, Safety case and standards, Fleet and updates, and Lost connection and remote operation.
+
 ## Toolkit 1.1 · October 2026
 
 ### Added
