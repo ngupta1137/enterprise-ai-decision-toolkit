@@ -2,13 +2,13 @@
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23464328.svg)](https://doi.org/10.5281/zenodo.23464328)
 
-**Eight open instruments for deciding what an enterprise AI system is allowed to do, and proving it.**
+**Ten open instruments for deciding what an enterprise AI system is allowed to do, and proving it.**
 
 Most enterprise AI does not fail because the model is weak. It fails in the space around the model: nobody wrote down what the system may do, nobody can show what it did, the vendor holds the controls, the business case counted the cheapest number, the rollout to a second country assumed the first one's evidence, and nobody was willing to sign the decision to stop.
 
 Each instrument in this toolkit addresses one of those gaps. None of them needs software. Each one is a document a leadership team can fill in, sign, and keep.
 
-The organizing idea behind all eight is the same: **capability is not authority.** A system can be very good at something and still not have earned the right to do it on the enterprise's behalf.
+The organizing idea behind all ten is the same: **capability is not authority.** A system can be very good at something and still not have earned the right to do it on the enterprise's behalf.
 
 ---
 
@@ -47,6 +47,7 @@ New to the toolkit? Read the [worked example](examples/), which follows one fict
 | Instrument | The question it answers | Use it when |
 |---|---|---|
 | [Physical AI Authority Checklist](physical-ai-authority-checklist/) | Is this robot or physical AI system ready for the field? | Before any robot or physical AI system works outside a lab |
+| [Field Data Foundations Checklist](field-data-foundations-checklist/) | Will field data become an asset or a liability? | Companion checklist for field robotics programs |
 
 Each folder holds the instrument as a readable page and a printable PDF. The Scorecard also comes as a [spreadsheet](scorecard/scorecard-workbook.xlsx) that applies the gate and band rules automatically, and the AI Authority Review as a [one-page form](ai-authority-review/ai-authority-review-form.pdf).
 
